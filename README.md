@@ -1,5 +1,5 @@
-# SegNet_Deploy
+# Semantic Segmentation
 :octocat:
-Just a self learning project to deploy SegNet
+Just a self learning project to deploy Semantic Segmentation
 
 ## Caffe
